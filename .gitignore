@@ -1,0 +1,10 @@
+# Ignore everything in the model directory
+/model/*
+
+# Ignore everything in the data directory
+/data/*
+/__pycache__/
+
+# Ignore the train and test directories
+/train/
+/test/
